@@ -6,7 +6,10 @@ body {
   border:1px solid black;
   height:50px;
 }
-
+#headerbox
+{
+  height: 250px; width: 150px;
+}
 #TopLogo
 {
 width:195px;
@@ -59,29 +62,46 @@ height:44px;
      {
        position: absolute;
        top:80;
-       left:100px;
+       left:110px;
      }
      #OurWork
      {
        position: absolute;
        top:80;
-       left:210px;
+       left:230px;
      }
      #Clients
      {
        position: absolute;
        top:80;
-       left:280px;
+       left:320px;
      }
      #Resources
      {
        position: absolute;
        top:80;
-       left:330px;
+       left:380px;
      }
 
 }
 
+#BelowMenuTabBox
+{
+  height: 450px; width: 150px;
+}
+#BelowMenuTab
+{
+
+
+  }
+  #BelowMenuImage
+  {
+      width="300" height="140"
+      position: absolute;
+      left: 0px;
+      top: 300px;
+      z-index: -1;
+  }
 
 #Rect
 {border: 1px solid black;
