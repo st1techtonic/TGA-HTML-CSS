@@ -1,0 +1,99 @@
+body {
+    background-color: lightblue;
+}
+
+#header{
+  border:1px solid black;
+  height:50px;
+}
+
+#TopLogo
+{
+width:195px;
+height:44px;
+
+}
+
+#leftheader
+{
+  display: inline-block;
+  float: left;
+}
+
+#Rightheader
+{
+  display: inline-block;
+  float: right;
+  margin-top: 28px;
+}
+
+#ContactUS
+{
+  position:absolute;
+  top:0;
+  right:100px;
+}
+
+#logIn
+{
+  position: absolute;
+  top:0;
+  right:30px;
+
+}
+
+#MenuTab
+{
+  display: inline-block;
+  float: left;
+}
+
+
+     #AboutUS
+     {
+       position: absolute;
+       top:80;
+       left:30px;
+     }
+     #OurApproach
+     {
+       position: absolute;
+       top:80;
+       left:100px;
+     }
+     #OurWork
+     {
+       position: absolute;
+       top:80;
+       left:210px;
+     }
+     #Clients
+     {
+       position: absolute;
+       top:80;
+       left:280px;
+     }
+     #Resources
+     {
+       position: absolute;
+       top:80;
+       left:330px;
+     }
+
+}
+
+
+#Rect
+{border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;}
+
+
+ #Columm
+ img {
+     float: right;
+     margin: 0 0 10px 10px;
+ }
