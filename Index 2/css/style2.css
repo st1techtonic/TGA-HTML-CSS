@@ -5,23 +5,20 @@ html {
 body {
   margin: 0;
 }
-
+.logo{
+  position:absolute;
+  top:10px;
+  left:10px;
+}
 header {
   background: grey;
   height: 100px;
 }
 
-img:first-child
-{
-  position: absolute;
-top: 0;
-left: 5px;
-}
-
 h1 {
   text-align: center;
   color: white;
-  line-height: 100px;
+  line-height: 80px;
   margin: 0;
 }
 
@@ -62,7 +59,8 @@ article:nth-of-type(3) div:first-child {
   display: inline-block;
 }
 
-button {
+button
+{
   flex: 1;
   margin: 5px;
   font-size: 18px;
